@@ -136,7 +136,7 @@ function validation()
             <div class="span8 left about-us-sec">
             	<h4 style="color:#FF6600;">We Make Your Business Unique Globally</h4>
                 <h6 style="font:20px 'Conv_HelveticaNeueLTStd-LtCn'; color:#0f70b8; margin-bottom:22px;">
-				 marketplaces are websites that match buyers and sellers of services provided via the internet.<br>
+				 Online freelancer marketplaces are websites that match buyers and sellers of services provided via the internet.<br>
 				Buyers bid on services at a fixed price or at an hourly rate. <br>
 				These marketplaces allow people to sign up remotely for freelance assignments and get paid through a merchant account.<br>
 				Freelance employment has been common in the areas of writing, editing, translation, indexing, software development, website design, advertising, open innovations, information technology, and business process outsourcing.<br>
