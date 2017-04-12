@@ -1,0 +1,38 @@
+@font-face {
+	font-family: 'Conv_HelveticaNeueLTStd-LtCn';
+	src: url('../fonts/HelveticaNeueLTStd-LtCn.eot');
+	src: local('../fonts/HelveticaNeueLTStd-LtCn.eot'), url('../fonts/HelveticaNeueLTStd-LtCn.woff') format('woff'), url('../fonts/HelveticaNeueLTStd-LtCn.ttf') format('truetype'), url('../fonts/HelveticaNeueLTStd-LtCn.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Conv_HelveticaNeueLTStd-Ex';
+	src: url('../fonts/HelveticaNeueLTStd-Ex.eot');
+	src: local('../fonts/HelveticaNeueLTStd-Ex.eot'), url('../fonts/HelveticaNeueLTStd-Ex.woff') format('woff'), url('../fonts/HelveticaNeueLTStd-Ex.ttf') format('truetype'), url('../fonts/HelveticaNeueLTStd-Ex.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('../fonts/opensans-regular-webfont.eot');
+    src: url('../fonts/opensans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/opensans-regular-webfont.woff') format('woff'),
+         url('../fonts/opensans-regular-webfont.ttf') format('truetype'),
+         url('../fonts/opensans-regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'open_sans_semiboldregular';
+    src: url('../fonts/opensans-semibold-webfont.eot');
+    src: url('../fonts/opensans-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/opensans-semibold-webfont.woff') format('woff'),
+         url('../fonts/opensans-semibold-webfont.ttf') format('truetype'),
+         url('../fonts/opensans-semibold-webfont.svg#open_sans_semiboldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

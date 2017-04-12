@@ -1,0 +1,43 @@
+p
+{
+padding-bottom: 20px;
+}
+
+h2 {
+    color: #0F0F0F;
+    font-size: 25px;
+    letter-spacing: -1px;
+    line-height: 1.2em;
+    padding: 1px 0 17px 10px;
+}
+.pad {
+    padding: 0 10px;
+}
+.pad_left1 {
+    padding-left: 67px;
+}
+.col3 {
+    width: 252px;
+}
+.wrapper_1 {
+    overflow: hidden;
+    width: 100%;
+}
+.date {
+    color: #13C5FF;
+    float: left;
+    font-size: 30px;
+    line-height: 1.2em;
+    margin-right: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    width: 46px;
+}
+span {
+    display: block;
+    font-size: 53px;
+    letter-spacing: -2px;
+    line-height: 1.2em;
+    margin-bottom: -22px;
+    margin-top: -8px;
+}
